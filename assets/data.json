@@ -1,0 +1,712 @@
+[
+  {
+    "id": 1,
+    "chapter_id" : 1,
+    "chapter_name_eg" : "Arjuna Vishada Yoga",
+    "chapter_name_hn" : "अर्जुनविषादयोग",
+    "image" : "assets/images/1.jpg",
+    "total_verse" : 47,
+    "verses" : [
+      {
+        "verse_id" : 1.1,
+        "verse":"धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।\nमामकाः पाण्डवाश्चैव किमकुर्वत संजय ॥",
+        "commentary_eg" : "Dhritarashtra said: O Sanjay, after gathering \non the holy field of Kurukshetra, and desiring \nto fight, what did my sons and the \nsons of Pandu do?",
+        "commentary_hn" : "धृतराष्ट्र बोले- हे संजय! \nधर्मभूमि कुरुक्षेत्र में एकत्रित, \nयुद्ध की इच्छावाले मेरे और पाण्डु के \nपुत्रों ने क्या किया?॥1॥"
+      },
+      {
+        "verse_id" : 1.2,
+        "verse":"धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।\nमामकाः पाण्डवाश्चैव किमकुर्वत संजय ॥",
+        "commentary_eg" : "Dhritarashtra said: O Sanjay, after gathering \non the holy field of Kurukshetra, and desiring \nto fight, what did my sons and the \nsons of Pandu do?",
+        "commentary_hn" : "धृतराष्ट्र बोले- हे संजय! \nधर्मभूमि कुरुक्षेत्र में एकत्रित, \nयुद्ध की इच्छावाले मेरे और पाण्डु के \nपुत्रों ने क्या किया?॥1॥"
+
+      },
+      {
+        "verse_id" : 1.3,
+        "verse":"धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।\nमामकाः पाण्डवाश्चैव किमकुर्वत संजय ॥",
+        "commentary_eg" : "Dhritarashtra said: O Sanjay, after gathering \non the holy field of Kurukshetra, and desiring \nto fight, what did my sons and the \nsons of Pandu do?",
+        "commentary_hn" : "धृतराष्ट्र बोले- हे संजय! \nधर्मभूमि कुरुक्षेत्र में एकत्रित, \nयुद्ध की इच्छावाले मेरे और पाण्डु के \nपुत्रों ने क्या किया?॥1॥"
+
+      },
+      {
+        "verse_id" : 1.4,
+        "verse":"धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।\nमामकाः पाण्डवाश्चैव किमकुर्वत संजय ॥",
+        "commentary_eg" : "Dhritarashtra said: O Sanjay, after gathering \non the holy field of Kurukshetra, and desiring \nto fight, what did my sons and the \nsons of Pandu do?",
+        "commentary_hn" : "धृतराष्ट्र बोले- हे संजय! \nधर्मभूमि कुरुक्षेत्र में एकत्रित, \nयुद्ध की इच्छावाले मेरे और पाण्डु के \nपुत्रों ने क्या किया?॥1॥"
+
+      },
+      {
+        "verse_id" : 1.5,
+        "verse":"धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।\nमामकाः पाण्डवाश्चैव किमकुर्वत संजय ॥",
+        "commentary_eg" : "Dhritarashtra said: O Sanjay, after gathering \non the holy field of Kurukshetra, and desiring \nto fight, what did my sons and the \nsons of Pandu do?",
+        "commentary_hn" : "धृतराष्ट्र बोले- हे संजय! \nधर्मभूमि कुरुक्षेत्र में एकत्रित, \nयुद्ध की इच्छावाले मेरे और पाण्डु के \nपुत्रों ने क्या किया?॥1॥"
+
+      },
+      {
+        "verse_id" : 1.6,
+        "verse":"धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।\nमामकाः पाण्डवाश्चैव किमकुर्वत संजय ॥",
+        "commentary_eg" : "Dhritarashtra said: O Sanjay, after gathering \non the holy field of Kurukshetra, and desiring \nto fight, what did my sons and the \nsons of Pandu do?",
+        "commentary_hn" : "धृतराष्ट्र बोले- हे संजय! \nधर्मभूमि कुरुक्षेत्र में एकत्रित, \nयुद्ध की इच्छावाले मेरे और पाण्डु के \nपुत्रों ने क्या किया?॥1॥"
+
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chapter_id" : 2,
+    "chapter_name_eg" : "Sankhya Yoga",
+    "chapter_name_hn" : "सांख्ययोग",
+    "image" : "assets/images/2.jpg",
+    "total_verse" : 72,
+    "verses" : [
+      {
+        "verse_id" : 2.1,
+        "verse" : "संजय उवाच\nतं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम्।\nविषीदन्तमिदं वाक्यमुवाच मधुसूदनः ॥",
+        "commentary_eg" : "Sanjay said: Seeing Arjun overwhelmed with pity, his mind grief-stricken, and his eyes full of tears, Shree Krishna spoke the following words.",
+        "commentary_hn" : "संजय बोले- उस प्रकार करुणा से व्याप्त और आँसुओं \nसे पूर्ण तथा व्याकुल नेत्रों वाले शोकयुक्त उस अर्जुन के प्रति \nभगवान मधुसूदन ने यह वचन कहा॥1॥"
+
+      },
+      {
+        "verse_id" : 2.2,
+        "verse" : "संजय उवाच\nतं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम्।\nविषीदन्तमिदं वाक्यमुवाच मधुसूदनः ॥",
+        "commentary_eg" : "Sanjay said: Seeing Arjun overwhelmed with \npity, his mind grief-stricken, and his eyes full \nof tears, Shree Krishna spoke the following words.",
+        "commentary_hn" : "संजय बोले- उस प्रकार करुणा से व्याप्त और आँसुओं \nसे पूर्ण तथा व्याकुल नेत्रों वाले शोकयुक्त उस अर्जुन के प्रति \nभगवान मधुसूदन ने यह वचन कहा॥1॥"
+
+      },
+      {
+        "verse_id" : 2.3,
+        "verse" : "संजय उवाच\nतं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम्।\nविषीदन्तमिदं वाक्यमुवाच मधुसूदनः ॥",
+        "commentary_eg" : "Sanjay said: Seeing Arjun overwhelmed with \npity, his mind grief-stricken, and his eyes full \nof tears, Shree Krishna spoke the following words.",
+        "commentary_hn" : "संजय बोले- उस प्रकार करुणा से व्याप्त और आँसुओं \nसे पूर्ण तथा व्याकुल नेत्रों वाले शोकयुक्त उस अर्जुन के प्रति \nभगवान मधुसूदन ने यह वचन कहा॥1॥"
+
+      },
+      {
+        "verse_id" : 2.4,
+        "verse" : "संजय उवाच\nतं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम्।\nविषीदन्तमिदं वाक्यमुवाच मधुसूदनः ॥",
+        "commentary_eg" : "Sanjay said: Seeing Arjun overwhelmed with \npity, his mind grief-stricken, and his eyes full \nof tears, Shree Krishna spoke the following words.",
+        "commentary_hn" : "संजय बोले- उस प्रकार करुणा से व्याप्त और आँसुओं \nसे पूर्ण तथा व्याकुल नेत्रों वाले शोकयुक्त उस अर्जुन के प्रति \nभगवान मधुसूदन ने यह वचन कहा॥1॥"
+
+      },
+      {
+        "verse_id" : 2.5,
+        "verse" : "संजय उवाच\nतं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम्।\nविषीदन्तमिदं वाक्यमुवाच मधुसूदनः ॥",
+        "commentary_eg" : "Sanjay said: Seeing Arjun overwhelmed with \npity, his mind grief-stricken, and his eyes full \nof tears, Shree Krishna spoke the following words.",
+        "commentary_hn" : "संजय बोले- उस प्रकार करुणा से व्याप्त और आँसुओं \nसे पूर्ण तथा व्याकुल नेत्रों वाले शोकयुक्त उस अर्जुन के प्रति \nभगवान मधुसूदन ने यह वचन कहा॥1॥"
+
+      },
+      {
+        "verse_id" : 2.6,
+        "verse" : "संजय उवाच\nतं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम्।\nविषीदन्तमिदं वाक्यमुवाच मधुसूदनः ॥",
+        "commentary_eg" : "Sanjay said: Seeing Arjun overwhelmed with \npity, his mind grief-stricken, and his eyes full \nof tears, Shree Krishna spoke the following words.",
+        "commentary_hn" : "संजय बोले- उस प्रकार करुणा से व्याप्त और आँसुओं \nसे पूर्ण तथा व्याकुल नेत्रों वाले शोकयुक्त उस अर्जुन के प्रति \nभगवान मधुसूदन ने यह वचन कहा॥1॥"
+
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chapter_id" : 3,
+    "chapter_name_eg" : "Karma Yoga",
+    "chapter_name_hn" : "कर्मयोग",
+    "image" : "assets/images/3.jpg",
+    "total_verse" : 43,
+    "verses" : [
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.2,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.3,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.4,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.5,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.6,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      }]
+
+  },
+  {
+    "id": 4,
+    "chapter_id" : 4,
+    "chapter_name_eg" : "Gyana Karma Sanyasa Yoga",
+    "chapter_name_hn" : "ज्ञानकर्मसंन्यासयोग",
+    "image" : "assets/images/4.jpg",
+    "total_verse" : 42,
+    "verses" : [
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन । तत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1 व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे । तदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      }]
+  },
+  {
+    "id": 5,
+    "chapter_id" : 5,
+    "chapter_name_eg" : "Karma Sanyasa Yoga ",
+    "chapter_name_hn" : "कर्मसंन्यासयोग",
+    "image" : "assets/images/5.jpg",
+    "total_verse" : 29,
+    "verses" : [
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      }]
+  },
+  {
+    "id": 6,
+    "chapter_id" : 6,
+    "chapter_name_eg" : "Dhyana Yoga (Aatma Samyam Yoga)",
+    "chapter_name_hn" : "आत्मसंयमयोग",
+    "image" : "assets/images/6.jpg",
+    "total_verse" : 47,
+    "verses" : [
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      }]
+  },
+  {
+    "id": 7,
+    "chapter_id" : 7,
+    "chapter_name_eg" : "Gyana Vigyana Yoga",
+    "chapter_name_hn" : "ज्ञानविज्ञानयोग",
+    "image" : "assets/images/7.jpg",
+    "total_verse" : 30,
+    "verses" : [
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      }]
+  },
+  {
+    "id": 8,
+    "chapter_id" : 8,
+    "chapter_name_eg" : "Akshara Brahma Yoga",
+    "chapter_name_hn" : "अक्षरब्रह्म योग",
+    "image" : "assets/images/8.jpg",
+    "total_verse" : 28,
+    "verses" : [
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      }]
+  },
+  {
+    "id" : 9,
+    "chapter_id" : 9,
+    "chapter_name_eg" : "Raja Vidya Raja Guhya Yoga",
+    "chapter_name_hn" : "राज विद्या गुह्ययोग",
+    "image" : "hassets/images/9.jpg",
+    "total_verse" : 34,
+    "verses" : [
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      }] },
+  {
+    "id" : 10,
+    "chapter_id" : 10,
+    "chapter_name_eg" : "Vibhuti Yoga",
+    "chapter_name_hn" : "विभूति योग",
+    "image" : "assets/images/10.jpg",
+    "total_verse" : 42,
+    "verses" : [
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      }] },
+  {
+    "id" : 11,
+    "chapter_id" : 11,
+    "chapter_name_eg" : "Vishwarupa Darsana Yoga",
+    "chapter_name_hn" : "विश्वरूप दर्शन योग",
+    "image" : "assets/images/11.jpg",
+    "total_verse" : 55,
+    "verses" : [
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      }]  },
+  {
+    "id" : 12,
+    "chapter_id" : 12,
+    "chapter_name_eg" : "Bhakti Yoga",
+    "chapter_name_hn" : "भक्ति योग",
+    "image" : "assets/images/12.jpg",
+    "total_verse" : 20,
+    "verses" : [
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      }] },
+  {
+    "id" : 13,
+    "chapter_id" : 13,
+    "chapter_name_eg" : "Ksetra Ksetrajna Vibhaga Yoga",
+    "chapter_name_hn" : "विभाग योग",
+    "image" : "assets/images/13.jpg",
+    "total_verse" : 34,
+    "verses" : [
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      }]  },
+  {
+    "id" : 14,
+    "chapter_id" : 14,
+    "chapter_name_eg" : "Gunatraya-Vibhaga Yoga",
+    "chapter_name_hn" : "गुण त्र य विभाग योग",
+    "image" : "assets/images/14.jpg",
+    "total_verse" : 27,
+    "verses" : [
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      },
+      {
+        "verse_id" : 3.1,
+        "verse" : "अर्जुन उवाच\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥1\nव्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥2",
+        "commentary_eg" : "Arjun said: O Janardan, if You consider knowledge superior to action, then why do You ask me to wage this terrible war? My intellect is bewildered by Your ambiguous advice. Please tell me decisively the one path by which I may attain the highest good.",
+        "commentary_hn" : "अर्जुन बोले- हे जनार्दन! यदि आपको कर्म की अपेक्षा ज्ञान श्रेष्ठ मान्य है तो फिर हे केशव! मुझे भयंकर कर्म में क्यों लगाते हैं?॥1॥\nआप मिले हुए-से वचनों से मेरी बुद्धि को मानो मोहित कर रहे हैं। इसलिए उस एक बात को निश्चित करके कहिए जिससे मैं कल्याण को प्राप्त हो जाऊँ॥2॥॥"
+
+      }] }
+]
