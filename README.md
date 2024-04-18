@@ -1,16 +1,6 @@
-# bhagvatgeeta
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![s1](https://github.com/RAWAN3830/Bhagavad-Gita/assets/138647473/d3083cd9-e0cb-4eb5-a0ab-333b9fd2961d)
+![s2](https://github.com/RAWAN3830/Bhagavad-Gita/assets/138647473/cc63a8b5-8ac7-4b9c-81cb-4161f24023f5)
+![s3](https://github.com/RAWAN3830/Bhagavad-Gita/assets/138647473/f21361a5-5b6a-466c-866b-ea7621c2ec6a)
+![s4](https://github.com/RAWAN3830/Bhagavad-Gita/assets/138647473/c9634456-a63e-41bc-bb49-a902f4b0392a)
+![s6](https://github.com/RAWAN3830/Bhagavad-Gita/assets/138647473/28af8609-b471-4cd5-b4bd-27fb01e60c35)
+![s5](https://github.com/RAWAN3830/Bhagavad-Gita/assets/138647473/c095844a-2a73-4d91-bd0d-ac5267205d80)
